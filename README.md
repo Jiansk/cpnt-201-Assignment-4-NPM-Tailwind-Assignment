@@ -6,3 +6,6 @@
 ## github repo:
 -
 ## Attributions:
+- https://tailwindcss.com/docs/utility-first
+- https://tailwindcss.com/docs/installation
+- https://www.youtube.com/watch?v=pElc5hRcxmc
